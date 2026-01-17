@@ -37,7 +37,7 @@ influxdb-client
 ## Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/linky-influxdb-monitor.git
+git clone https://github.com/Tim6Kya/linky-influxdb-monitor.git
 cd linky-influxdb-monitor
 
 ### 2. Install Dependencies
